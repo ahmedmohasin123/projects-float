@@ -1,0 +1,33 @@
+
+body{margin:0;
+
+}
+.container{
+	width:1000px;
+	margin:auto;
+	overflow:hidden;
+}
+.contain{
+	width:33.33%;
+	float:left;
+	box-sizing: border-box;
+	text-align:justify;
+	padding:10px;
+}
+.green{
+	background:green;
+	padding:15px;
+}
+  section{padding:100px 0;
+	margin top:100px;
+	margin:auto;
+}
+.gallary{
+	width: 33.33%;
+	float:left;
+	box-sizing: border-box;
+	padding:20px;
+}
+img{max-width:100%;
+	
+}
